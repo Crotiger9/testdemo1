@@ -1,0 +1,1831 @@
+Copyright © 2020 Chantel Botha
+
+All rights reserved
+
+
+
+The characters and events portrayed in this book are fictitious. Any similarity to real persons, living or dead, is coincidental and not intended by the author.
+
+
+
+No part of this book may be reproduced, or stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without express written permission of the author.
+
+
+
+
+
+I dedicate this book to my family and my clients.
+
+
+
+This book would not have seen the day of light if not for my mom, now my eternal cheerleader in heaven. She knew I would become everything I am today from the day that she met me! Seeing that knowledge in your eyes, mom, got me here!
+
+
+
+Thank you to my husband Johan, who believes in me more than I believe in myself, who sees me at my best and my worst and still chooses to love me.
+
+
+
+I thank my mother-in-law Kotie, who encourages me and believes in me so much!
+
+
+
+Thanks to my children. I hope you will have the courage to put your work out there, imperfect like mine.
+
+
+
+Let us make a difference in the world.
+
+
+
+Thank you to my clients who inspire me to be better so that I can make a difference to their clients.
+
+
+
+
+
+Contents
+
+Copyright
+
+Dedication
+
+Why I wrote this book
+
+The Experience Status Quo
+
+Customer Experience Terms
+
+How I see Customer Experience
+
+Why Customer Experience?
+
+What is Experience Design?
+
+Why most experiences suck!
+
+The Benefits Of Customer Journey Mapping
+
+Use your data cleverly!
+
+Engage Your Angry Customers
+
+Step By Step Process: Customer Journey Mapping
+
+Journey Design Guidelines
+
+Online Workshop Tips
+
+Map Journeys With Your Customers
+
+Scope and Plan
+
+Redesigning customer-facing documents
+
+How to inspire change through presenting your journey maps
+
+Implementing Your Customer Journeys
+
+Conclusion
+
+About The Author
+
+
+
+
+
+A poem of encouragement for the Customer Experience Practitioner
+
+
+
+
+
+When you get tired, rest.
+
+When you get angry, breathe and know you it is because you care.
+
+When you get sad, have a bar of chocolate. I know that it is because you care.
+
+When you get passionate, write it down on a post-it note.
+
+When you doubt whether you are making a difference, visualize the faces of your customers.
+
+When you are bored, map a new journey.
+
+When you get challenged, match your opponent with grace and gratitude.
+
+When you achieve small wins, have a big celebration, but never become complacent or arrogant.
+
+When you close the door on a project, look up at the window for a new vision.
+
+When you get tired, angry or sad, just don’t give up. We need you!
+
+
+✽✽✽
+
+
+
+
+
+Thanks!
+
+Thanks for choosing this book.
+
+I filled it with practical advice, workshop methods and worksheets as well as a companion video guide.
+
+To register for the online companion course, go to this link:
+
+Online Video Companion Course
+
+Use the code: kindle2020 to check out.
+
+At the time of publishing, I have not completed the online course, so please check back for future modules.
+
+
+
+
+
+Why I wrote this book
+
+
+
+
+
+I want to inspire people who are finding designing journeys in a collaborative manner challenging.
+
+I want to inspire teams who find it challenging to get their journeys adopted by the rest of the organization to shift to a more inclusive design approach.
+
+I want to support the lone ranger, who has the task of mapping a journey for an old product in a complex environment.
+
+After reading this book, I want you to say, "Now I get it!".
+
+I want to share the methods and techniques that I have used over many years so that people can design better experiences in a world that needs love and care right now.
+
+I have been creating customer journeys for brands over the last 13 years, and I have used many rolls of paper, many post-it notes and 100's of kilograms of lego and many physical props. With social distancing, we have had to get smart and devise methods that would deliver the same spectacular results, but ones that people can do in an online workshop to co-create.
+
+In this book, I will start with the basic foundation understanding of customer journeys. You will find step- by- step methods that will empower you to deliver the same as the case studies we include in the book.
+
+
+
+
+
+The Experience Status Quo
+
+
+
+
+
+H ave you ever had such a bad experience that you had to pinch yourself to check that it is real? At that moment, did you think, "I am sure the manager or the owner has no idea that the experience is so bad"?
+
+If you are a fixer like me, you may even have offered a fix right there and then.
+
+Many experiences today have not been deliberately designed, they just happen, and when they just happen, they often have unpredictable and unpleasant outcomes. The financial consequences are very often not quantified since no-one knows about this experience unless the customer complains or answers a survey. Often after unpleasant experiences, I don't want to answer a survey, I feel the brand has stolen enough of my life. So you never hear about those experiences.
+
+What amazes me is that the methods in this book are so simple to follow. I said simple, not easy. If it were easy, everyone would have fantastic experiences.
+
+What I promise you, if you have the grit to do everything I say in this book, you will see results and not only that, you will feel incredibly proud of what you have created. You will feel the satisfaction and sense of fulfilment that comes with crafting and implementing a journey that is full of meaning and care.
+
+This book is for busy people. I have many case studies that will add over the next few months on the BrandLove blog, but here I wanted to give you the guidance that will provide you with the quickest results and create raving fans for your brand.
+
+
+
+
+
+Customer Experience Terms
+
+
+
+
+
+B elow I have created a sketchnote to explain some of the customer experience terminology used in this book.
+
+
+
+
+
+How I see Customer Experience
+
+
+
+
+
+I define Customer Experience (CX) as the interactions between a customer and your organization throughout their business relationship. An "interaction" can include awareness, discovery, cultivation, advocacy, purchases and service.
+
+That is very academic and unemotional. More encompassing, customer experience is
+
+● The feelings and thoughts that a customer associates with your brand
+
+● The sum of all the highs, the lows, the delights and the disappointments that the customer experiences
+
+● A customer's experience is the culmination of the emotions, smells, tastes, sights and sounds that your brand conjures up when she/he thinks about your brand
+
+● It's the way a customer feels about themselves when they interact with your brand
+
+
+
+
+
+Why Customer Experience?
+
+
+
+
+
+I n a world where products are almost indistinguishable from each other, it has become more challenging to do business. When product features are similar, customers will look at price and convenience.
+
+
+
+
+
+Still, often without them even knowing, they will make decisions based on how they felt or the ability to recall the memory of an experience. We don't remember details in the experiences we have. We usually only recall the emotional peaks in experiences as well as how the experience ended. Now that we know this, this phenomena can be used by experienced designers to craft experiences aimed at making a memorable impression.
+
+When looking at experience design from a Chief Financial Officer (CFO) perspective, he is looking at return on investment, growing the business and maximizing value for shareholders.
+
+I believe that a more deliberate experience design is the only way to do that.
+
+Research has proven that people who have great experiences are:
+
+● More forgiving when things go wrong
+
+● They buy more
+
+● They stay with your brand for longer
+
+● They also are a marketing channel for you through their recommendations to their friends and family
+
+● They will publicly defend your brand if they are obsessed enough with your brand
+
+● They will support and treat your service staff well
+
+● They might leave, but their return is even more loyal than when they went once they have experienced your competitors'.
+
+Investing in customer experience through a disciplined and scientific process of design and activation will reduce the cost to serve. It will increase revenue through increase lifetime value, a more significant share of wallet as well as attracting new customers through word of mouth from existing delighted customers.
+
+You are no longer competing in your category of service. You are also not selling what you think you are. You are competing for memories. You are trying to captivate head and heart space in a world where most brands seem like they care very little. You are competing for attention in a sea of distractions. To be noticed, you have to be different and spark a feeling that people desire.
+
+Brands have become distant, arrogant and complacent. Customers and employees are becoming more confident and more courageous to use the power of choice that is growing daily with more brands occupying a cluttered market space. Every "default" undesigned interaction poses a risk to how people experience your brand and the subsequent commitment they make to stay with you or leave.
+
+People will exclusively reserve loyalty for the brands that genuinely care about their customers.
+
+The customers will not need to complete a survey for those brands to know that their customers are happy. They will know.
+
+
+
+
+
+What is Experience Design?
+
+
+
+
+
+E xperience design is a word that describes many disciplines in a complex ecosystem.
+
+Here are the components of experience design that I think is crucial:
+
+● Craft an inspirational business strategy that had been around employees and customers (not products or maximizing profit).
+
+● A unique, customer centred product or service proposition that solves a significant problem for customers.
+
+● Create an experience essence that articulates the feelings, beliefs and qualities of the experience we want to create between employees and their peers and customers. The essence, as we define it, will include a cultural manifesto that articulates how we will work together, our tribal customs and team agreements. Our cultural DNA will help us attract and initiate people into our tribe. It will ensure that we create a strong and high functioning team that can be proud of the experience that they deliver to each other and their customers.
+
+● A clear definition of the customer and what problems we solve for them and the functional and emotional promise we are making when serving them.
+
+● A step- by- step journey that helps me make experiences consistent and predictable and supports me in the moments where things go wrong. Craft a journey that includes the functional, emotional and technological ingredients that I need to deliver on the promise that the brand made.
+
+● The journey above is underpinned by a service blueprint that includes my standard operating procedures, key performance indicators and financial metrics to ensure my business delivers a sustainable experience that continues to provide value to shareholders, employees and customers.
+
+As you can see from the ingredients above, experience design is like the bone structure of your business. That is why so many brands struggle since they try transformation on the surface, and it produces short-lived results. Real change and a recommitment to your customers and employees mean going back to the foundations and possibly digging up old foundations and replacing them.
+
+A few years back, we had a problem with our sewage system at home. The pipes were more than 60 years old and made from clay and in the natural movement of the ground these pipes had shifted and started leaking. We had a team of experts that advised us. I wanted a quick, cost-effective solution. Unfortunately, such a solution did not exist. We ended up demolishing a newly built veranda and relaying the sewage system around the outside of the house. We had to gut existing structures and put in new facilities. It was costly and annoying. A quick fix would have caused a lot of "crap" in the short term. Sorry for the literal reference!
+
+We need to break and rebuild companies. Not just put a plaster over a more severe wound.
+
+Customer Experience transformation will touch every part of your business. I guarantee you it will be painful. It will identify any deficiencies and risks that you would instead want to remain ignorant about. It will create conflict. It will make people defensive and create territorial battles.
+
+The benefits of pushing past the discomfort will be an elegantly designed organization that functions as a sophisticated engine. Where everyone knows their role, plays their part brilliantly and grows their skills so that they become a proud, top-performing team member. They will all strive to be in service of each other and the customer.
+
+Warning: Do not start with a Customer Experience initiative, unless you are willing to deeply commit to evaluating every part of your business against the promise you make to customers and employees in your ad campaigns.
+
+
+
+
+
+Why most experiences suck!
+
+
+
+
+
+M any businesses today let their customers journey with them without planning and orchestrating the journey.
+
+
+
+
+
+It's a little like going on a trip without a map and without planning where you will make stops and where you will sleepover.
+
+You might see that as an adventure, but many customers don't. The experience is filled with uncertainty and a whole host of other emotions that do not motivate them to continue interacting with your brand.
+
+Lou Carbone says "You can not NOT have an experience with a brand, it is more about how haphazard or deliberately designed the experience is.
+
+Your customers have many interactions with your brand every day. What is the real experience that people are having with your brand?
+
+● Do I struggle to get hold of support when I need it?
+
+● Is the effort high to get issues solved when I get stuck?
+
+● Are there legal terms and conditions that were a secret at the time I committed to the product?
+
+● Do I get passed from one person to the next without anyone taking me seriously or taking ownership of the issues?
+
+● Do I frequently have to threaten to speak to a manager to get someone to take me seriously?
+
+● Do I regret my choice? Do I beat myself up about making this choice?
+
+● Do I get so annoyed that I want to put my gripe on their social media pages?
+
+An interaction can be
+
+● looking at your website,
+
+● phoning the number on your website,
+
+● speaking to a person,
+
+● engaging in an online chat,
+
+● going to a physical store,
+
+● looking at a form that I need to fill in,
+
+● receiving a statement in an email.
+
+When I have these interactions as a customer, do they feel inconsistent like I am dealing with different departments or do I feel like "this is my brand, and I am happy I chose them!"
+
+Many businesses over time have lost touch with their customers, and they have become so big and distributed that they no longer have a map of where they are journeying.
+
+
+
+
+
+Method: Immersion
+
+
+
+
+
+Find out what the real experience is that customers are having with your brand.
+
+I call this an immersion.
+
+Step 1
+
+Choose a specific interaction to have with your brand.
+
+Let me give you a simple example:
+
+● Find your contact number on your website
+
+● Find an application form and complete it
+
+● Have an online chat to ask about a product and where to find it
+
+● Phone and ask questions about the feature of the product
+
+If you are facilitating the session, create these challenges beforehand and type them out with an assessment sheet where people are going to make notes about the aspects of the experience.
+
+This exercise is a great challenge to do with a leadership team since the outcome can be so varied by individual. Some might have an excellent experience, and some might have a terrible experience. Comparing the outcome of these experiences is a great place to start the conversation on consistency.
+
+Step 2
+
+Assess the characteristics of the experience.
+
+● How long did it take you?
+
+● How long before someone answered your call or chat?
+
+● How did they answer?
+
+● What is the tone of voice on the website?
+
+● Was it easy to locate the information?
+
+● Do they play music on the telephone while you wait?
+
+Once you have all the results, discuss in the group and compare notes.
+
+Step 3
+
+Assess the person you interacted with.
+
+● Did the person you interacted with sound stressed or hurried?
+
+● Did they take the time to explain everything to you?
+
+● Did they send you somewhere else? Or hand you off to someone else?
+
+● Were they helpful?
+
+● Did they respond to any of the clues that you gave them?
+
+Compare notes in a team about how their experiences stacked up.
+
+Step 4
+
+About the request:
+
+● Did they solve your problem with the least amount of effort?
+
+● Did they make you feel like you should have known the answer to the question?
+
+● Was there anything memorable about the interaction?
+
+Step 5
+
+What are the actions that you would like to take after having these random experiences?
+
+You can choose, after having these experiences, to fix the issues that emerged. The fixes alone are not going to guarantee a great experience in the future. Without holistically looking at the customer journey and then improving the processes and systems, there will continually be many other permutations of things going wrong.
+
+
+
+
+
+The Benefits Of Customer Journey Mapping
+
+
+
+
+
+T he reasons for mapping journeys include:
+
+
+
+
+
+● Differentiate through empathy. The journey focuses on the emotions of both the customer and the employee. It, therefore, enables us to gain empathy. We are in a position to understand what a customer is going through. We can enrich this by mapping with real customers telling real stories.
+
+● Create a shared understanding of the customer's experience with your company. When your company has many products or divisions that shared understanding is lost through the sheer scale.
+
+● In workshops, you will see alignment - "Oh, is that how it works?"
+
+● Constructive debate - "That is not how it works".
+
+● Corrective design - "Surely, that is not right?"
+
+● Identify opportunities for improvement . Journeys will help teams to identify areas they need to focus on, previously overlooked opportunities for excellent service, or gaps in a customer's experience (e.g. "moments of misery") and find ways to make the experience simpler or more positive. As you step through the journey, team members might be engaged in:
+
+● Critical Evaluation - "Why do we do that?"
+
+● Elimination of white space - "What about that white space?"
+
+● Differentiation and Innovation - "We should …."
+
+● See the big picture of an end-to-end engagement to deliberately and intentionally orchestrate a consistent and excellent experience. Teams which usually worked in silos, start working together and co-operate in new ways once they understand the impact of misalignment on the customer.
+
+● Design or envision a future customer experience or the desired experience of a new product
+
+● Activate the people to live the experience.
+
+● Transform people while they map.
+
+● Enable them to start doing "real-time design" – deciding what is needed in the moment to deliver on the customer experience promise.
+
+● Train employees – on the customer journey and the context behind the journey.
+
+● Change employee lenses from internally focused to externally (customer) focused. Show the complexity of internal processes in an emotional, human-centric way.
+
+● Identify what we should be measuring and reporting on .
+
+When you create a customer journey map, as I will show you in this book, you will see immediate benefits:
+
+● Alignment and better cooperation in your teams.
+
+● Increase in quality of interactions through fixing broken stuff.
+
+● Aha moments of innovation that will lift people's spirits and motivate them to continue coming up with more ideas.
+
+● Customers will remark that the experience is consistent with the brand promise.
+
+● Spark ideas about new product features that will meet customers needs even better.
+
+
+
+
+
+Use your data cleverly!
+
+
+
+
+
+I cannot avoid the topic of data, although I do not want to write about data. No matter how much data you have, unless you act on the right data, your experiences will remain the same, and you will spend money on gathering data while your customers choose to leave you!
+
+I believe we are collecting too much data, instead of designing journeys, because we are afraid to move onto the next stage and get into the messy design. Spreadsheets have a sense of calm and neatness to them, even if the news they tell is terrible, they still do it in a composed, neat and quiet manner. Customers are not like that. They shout. They scream. They get messy, and they will leave. So what do most companies choose? Dashboard and scorecards or regular design sessions with angry customers? Who are companies more likely to spend time with? The next software vendor that can predict when your customer is going to have a meltdown so that we can send him an email campaign with an offer right before he loses his sh*t?
+
+Use your data smartly. Don't try and make sense from a high level rolled up figures. Get into the messy data. Read the verbatims. Look at your top 10 complaints. Read the stories as if they are a murder mystery. Feel the pain, and if you are ballsy enough, take this reading to your next executive committee meeting and read it to them.
+
+Take your top 10 issues from a customer perspective and apply the journey design methods in this book to them. Unpack those journeys, take the process all the way through and let me know what happens.
+
+
+
+
+
+Engage Your Angry Customers
+
+
+
+
+
+A ngry customers can be fantastic for your brand if you listen to them and use their anger to improve your customer journey.
+
+"When I get angry, I usually don't like the person I become."
+
+"I am often told not to make a scene in a shop. So I mostly complain to my friends and family, rather than to the company."
+
+We hear this from many customers. Unresolved anger that results in them disconnecting from your brand.
+
+Many complaints teams that I worked with, are afraid of the angry customers, and they have boxed them into a stereotype of a little monster that wants to make life miserable for someone else. Angry people are usually scared, and once you put this lens on, it opens up possibilities, it even gives you the ability to befriend an angry customer and ask them to help you solve the problem.
+
+Complaints teams also report that most complaints are not new. They deal with the same complaints day in and day out and have scripts to deal with it. The problem with the scripts is that they sound scripted in emails, chat and on the phone and angry customers hate fakeness on top of whatever happened. What most companies have not done is to apply journey mapping to the regular recurring complaints. Many journey maps also look at the upside, but the real magic happens when you map the moments where you fail customer expectations. You can make these situations more predictable and have various options to deal with it. Customer service colleagues no longer have to be surprised by a complaint; they can be confident and empowered to deal with that complaint. We usually train people on the process to follow, but not what to do when the process breaks. We miss an excellent opportunity to empower people to create brand affinity in a moment of misery.
+
+The state of mind of an angry customer
+
+A customer usually gets angry with a brand when they feel the brand has done something wrong when the brand has not met their expectations or cheated them in some way.
+
+When we look at the psyche of an angry customer, usually it is not just one thing that trips their wires, it is either repeat issues or a contextual situation that adds emotional intensity to the situation. When a family member is involved, a mother or child and something has gone wrong. The issue can also take on a more extreme intensity. So it is essential to listen to the problem but also listen to the context and the story.
+
+Here are the reasons why angry customers make great customer journey design partners:
+
+Angry customers want to be heard.
+
+The most important aspect I teach complaints teams is to listen to an angry customer. When they make no sense, draw the scenario with stick men on a piece of paper. Sometimes it magically starts making sense, and it allows you to ask questions about the pieces that you do not understand.
+
+
+
+Angry customers have come up with many solutions already.
+
+It is almost impossible for the angry mind not to seek justice or find a way to solve the problem.
+
+Even if an angry customer never complains to a brand, they have likely voiced the issue to a friend or family member. It is also possible that they have solved the problem in many different ways. For example, If someone ordered food to be delivered to their house and it was the wrong order, the customer would say, "If I were them, I would at least include something extra or give 20% off on the next order or give the next meal for free". Typically, dissatisfied or angry customers run through many scenarios of what they would have done.
+
+Angry customers care.
+
+The fact that someone is angry means they care to have that emotion. There is a spark and if you can use it, then do so. They might care about themselves or their family. They might be reacting to an "old" story that they don't deserve to be treated with disrespect.
+
+Angry customers want you to care, but most of the time, they don't expect you to engage.
+
+Most angry customers don't expect a company to call them or ask for their advice, or be authentically empathetic. Yes, this sounds sad, but this is the world we live in today where people avoid conflict. Brands don't take accountability, and most service staff are managed to optimize profit, not empower to solve customer problems. You can take the wind out of an angry customer's sails if you reach out first and engage without the customer's anger escalating. Just a reminder that we are all in the business of making memories. This unexpected moment can result in your brand being remembered as the one who cared enough to phone.
+
+Angry customers can make great brand ambassadors.
+
+I usually explain the peak-end-rule from Daniel Kannheman to complaints teams. To take a customer from a neutral experience to a delightful experience is challenging to do consistently, but to take a customer from a negative peak to neutral can deliver more significant benefits for your brand. People remember those interactions better. They have an imprint of the person who was kind and helpful and reached out to them in a moment where they did not feel great about their behaviour.
+
+
+
+How to engage with angry customers
+
+Invite angry customers to a co-design group. Tread lightly and be skilful in this first interaction when you invite them. You want to make sure that they know you want to hear them. Most companies that I consult with cringe at the thought of inviting angry customers, and the executive committee usually do not volunteer to attend. I have facilitated many of these co-design sessions, and usually, the customers arrive in a calm state. They may get flustered later in the conversation as they replay the story, but remember they have thought about the situation. They want to be heard. They want the problem to be solved. Most of all, they don't want to feel like they are turning into a terrible human being.
+
+Once you have them in the session, I structure the conversation first to create connection and trust. Since it is a group of customers, they usually start reporting that it feels like a customer support group where they can share freely. Rather than ponder for too long on the stories of wrong-doing, I shift the conversation quite quickly to empower them to make changes to their experience and redesign the ideal journey. First, without constraints and then adding the constraints back in. So, for example, no constraint would be, "you have an unlimited budget" and then add the constraint "you have only $10". I make them each CEO of the brand for 2 minutes, and they are only allowed to make one change on their first day on the job. In these 15 minutes, I get absolute gold. I seek permission to record this and later play this to the executive team and even use it in training materials for customer service teams.
+
+
+
+As an external facilitator, I don't solve any of the problems, but I work with a customer care team who tries to resolve the issues or follow up with these customers after the session. They are now brand ambassadors in a weird way! Once they have been listened to, they feel emotionally invested in the brand. Some even ask me how they would know if their ideas will be used.
+
+I want to leave you with this advice, if you want to design differentiated experiences for your brand, start with your pain points.
+
+● Take your top 10 complaints and design the pain out of them.
+
+● Design what happens when things go wrong because that is the only guarantee that I can give you, things WILL go wrong. Processes will break, systems will hang, mistakes will be made. What is important is that you respond to these situations with confidence and care and authentic connection. Don't run away from complaints! Run towards them!
+
+● Invite these customers to have conversations with you, to help you design the ideal journeys.
+
+● Give feedback to these clients about what ideas have been used, and you will have brand ambassadors for life.
+
+
+
+
+
+Step By Step Process: Customer Journey Mapping
+
+
+
+
+
+D o not do this alone!
+
+Round up a team of people who share your passion and who wants to work on something that matters!
+
+The high-level map for what you will do in this section is:
+
+● First, prepare with objectives and choosing your team and persona
+
+● Then identifying the moments in the journey
+
+● Next, you will choose the emotions you want to evoke that will drive value for the customer and your brand
+
+● Choose the moment of truth
+
+● Only then you will go into the deep design of the journey paying attention to what is on stage and backstage.
+
+
+
+Stage 1 - Preparing to map your journey
+
+Be sure to complete the steps below as a primer for the next steps in your customer journey mapping workshop.
+
+
+
+Step 1 - Objectives
+
+Start with clear objectives of why you are mapping the journey. What are you trying to do with your journey?
+
+Stay focussed by sharing these objectives with everyone in your workshops. When people go off track, bring them back to the objectives.
+
+Step 2 - Recruit a passionate Team .
+
+Choose a small core team that will help you on this journey. Especially now that we have moved the journey design workshops online, you can be smart about dividing the work up amongst a team of people. The ideal core journey team is 3-4 people. They will then engage the business people that we need in the journey design sessions.
+
+Ensure you have a powerful, diverse core team.
+
+Step 3 - Create a customer persona with a story .
+
+Choose a customer persona that is the target audience for the brand. Create a bit of a dramatic story around the persona to make the journey exciting and avoid boredom setting in when you are in your 6th design sprint.
+
+Steps for creating a customer persona will be covered later in this section.
+
+Your persona will help you to remain authentic, human and focussed.
+
+Ensure that you use bold visuals to continue to make this person as real as what you can!
+
+
+Step 4 - Identify other actors .
+
+Identify the other actors in the story, give them names and personas. Work with images if you can to make it real and human.
+
+No human ever functions alone. By identifying the other core role-players, it allows you to get into the nature of and the quality of the interactions that the customer has with the other role- players.
+
+
+
+
+
+Method: Creating a Persona
+
+
+
+
+
+Who to invite to this workshop: The core and broader stakeholder group
+
+How long should the workshop be: 2 - 3 hours
+
+The output of this workshop: Persona and Empathy Map to be sent to the audience that created it.
+
+Below I have listed the steps that you can follow in a workshop to develop a persona which will ensure that your design efforts remain human.
+
+Step 1
+
+Look at your target market and with your core group of people, set up a 2-hour workshop to work on your persona.
+
+Come up with a persona which is human and that people can identify with.
+
+Step 2
+
+Divide your group into groups of 2-3 people. Ask them to collect images that will represent your persona.
+
+This step can now be done digitally for online workshops, and people can work on collaborations boards such as
+
+● Miro
+
+● Mural
+
+● Concept Boards
+
+Outcome: Visual of the persona
+
+Step 3
+
+Allow every group to present their persona.
+
+During this process, you are also achieving better alignment between the members of your design group.
+
+Step 4
+
+Integrate these personas and find a powerful image to represent the persona.
+
+Keep your design efforts human.
+
+
+
+
+
+Method: Empathy Mapping for the persona
+
+
+
+
+
+Below are the steps for creating an empathy map for your persona.
+
+Step 1
+
+Use the persona that you created in the previous step and move into a deeper level of understanding this person and creating empathy for this person.
+
+Increase the quality outcome of your journey mapping by creating a powerful persona and empathy map.
+
+
+Step 2
+
+Find a youtube video that shows a person's struggle in the specific context that you are mapping for. I find that a video primer gets people into the life of the customer quite quickly.
+
+Before COVID, we extensively used Lego Serious Play to rapidly get us into the world of the customer and make the story very real.
+
+Get people to feel the struggle under their skin.
+
+Step 3
+
+Do this individually and after this, discuss in a group to elicit the best individual results.
+
+Use the empathy mapping framework and answer the following questions about the persona:
+
+● What is the person feeling?
+
+● What are their biggest challenges right now?
+
+● What are the fears that keep them awake at night?
+
+● What jobs are they trying to get done?
+
+● What do they need most right now?
+
+Please focus on what is going on in the customer's life. Please do not continue to experience them through the lens of your product.
+
+Step 4
+
+In a group, each person will get an opportunity to share their empathy map.
+
+During such a sharing session, people learn more about each other, they see different perspectives, and they find a more profound empathy for the persona, but also each other.
+
+A session like this bonds a team in a shared experience and serves as an excellent primer to lead into a journey design session.
+
+
+
+By googling, you will find a variety of empathy mapping canvasses with many dimensions on the canvas.
+
+Empathy Mapping Canvas is our favourite canvas. You will get a copy to download in the resources for this online version.
+
+Choose the canvas that will give you the best results. Get input from your senior leaders on what they would find helpful in an empathy canvas. Create a personalized canvas that will give you the best results.
+
+Choose the canvas that will give you the best results. Get input from your senior leaders on what they would find helpful in an empathy canvas. Create your own canvas that will give you the best results.
+
+
+
+
+
+Choose Business Stakeholders
+
+It is vital to have a small core team that will be responsible for:
+
+● Facilitation of design sessions
+
+● Capturing of information into powerful documents that can be used in training, communication, change management and future technology design efforts.
+
+● Taking ownership of producing and implementing a new and improved customer journey.
+
+Aside from this team, you would also need broad business representation from all areas of the business, including:
+
+● Marketing
+
+● Finance
+
+● Legal and Compliance
+
+● Product development
+
+● Operations
+
+● Customer Service
+
+Creating a stakeholder map for all stakeholders in your organization will help you decide who needs to be closely involved with your journey initiative.
+
+Aside from the various areas of speciality, you are also looking for specific personalities and dynamics in your workshop.
+
+You want someone to energize and lift the group. You also want the critic in the room to make sure that you are realistic and consider and design for the risks that the critic sees and no-one else wants to see. I suggest deliberately assigning these roles to people and naming them. Giving them explicit permission to, in an organized way, play the roles that will get you to a superior design outcome in a short space of time.
+
+Focus on a stakeholder map and how that can help you choose the best community to be involved in this project.
+
+
+
+
+
+Method: Stakeholder Mapping
+
+Who to invite to this workshop: The core team and leaders who are invested in seeing this initiative succeed.
+
+How long should the workshop be: 2-3 hours
+
+The output of this workshop: A stakeholder map with expectations
+
+Step 1
+
+Identify all the stakeholders that you think will impact your undertakings the most. Compile a list or write the names on post-it notes.
+
+
+Step 2
+
+Evaluate your list of people with this question, "Who are the most important stakeholders in their life?". Write down the new names.
+
+You would have come up with a few more than you did not think of in the previous round.
+
+Step 3
+
+Start placing the stakeholders on the template with the concentric circles. Place the stakeholders based on their impact, where the most considerable impact is at the centre of the circle.
+
+The focus will initially be on the stakeholders with the most considerable impact near the middle of the circl e.
+
+Step 4
+
+Choose the five stakeholders with the most significant impact and start unpacking expectations for them. Take each critical stakeholder group and ask the questions:
+
+● "What do they need from me and this initiative?"
+
+● "What do I need from them?"
+
+● "What are some actions, I want to take to strengthen this relationship?"
+
+After this, you will have a much more evident awareness of the needs both ways. You will be able to approach these stakeholders in a much more strategic manner so that they advance your goals and you theirs.
+
+Step 5
+
+Keep unpacking the stakeholder's needs until you believe you covered the most important ones
+
+
+
+
+
+Stage 2: Identify all your journey moments
+
+
+
+
+
+In this stage, you want to, first of all, identify all the moments in your journey. First, map the actual interactions that might happen. We tend to map them linearly, but we know they do not always happen like this. The interactions can be messy, and customers may go back to specific steps even though we are mapping neatly per stage.
+
+How to draw toast is a fantastic warm-up exercise that helps people understand at what granularity they need to identify the various moments in the story.
+
+Link to how to draw toast. https://www.drawtoast.com/
+
+Like in the exercise of how to make toast, you want to step-by-step, identify the interactions and storyline as it plays out.
+
+
+
+First, identify the moments and then in a second phase, go into the details.
+
+
+
+Step 1
+
+Create a template of 15-20 moment spaces.
+
+Step 2
+
+Go to the end of your map and set the intended outcome you want for this journey for your brand. What do you want the customer to do, say and remember after this interaction or repeated set of interactions with your brand?
+
+This memory will become your goal statement, and every part of the journey design needs to be evaluated against this, whether what you are designing will achieve this.
+
+Step 3
+
+Now go back to your first place in the journey. Where does the journey start? Write that in your second block.
+
+Be aware that the journey does not always start where we think it does.
+
+Step 4
+
+Write in the first block what happened right before what you wrote in the second block. With this step, I am helping you avoid the trap of starting the journey where we as brands have control over the journey. Many moments in our journeys are not under our control, but it is essential to place them in the context of the interaction so we can understand what to do in the next moment.
+
+Are you now at the start of the journey? Are you really in the shoes of the customer? Close your eyes for a moment, can you see what the customer sees?
+
+Step 5
+
+Move along the blocks on your journey and tell it like a story what happens next? And then? What does the customer do with the paper?
+
+Put yourself in the shoes of a crime scene investigator and ask questions about everything.
+
+Map the journey from the customer's perspective.
+
+Step 6
+
+Pay attention to white space. White space is where nothing happens. It is essential to map white space and also to consider the opportunities in that white space. During the time your customer hears nothing from you, they will be getting many messages from other brands. What is remarkable and value-adding that you can do during these times of "white spaces"... where there is a natural pause or waiting time?
+
+Be deliberate about white space. Don't let white space grow uncertainty in the mind of your customer.
+
+Step 7
+
+Get out of your process and systems. Usually, by moment 3, teams are right back into how the system does this and what process follows next. Come out of your process and focus on what the customer sees.
+
+Walk in the shoes of the customer and map what is going on in their life.
+
+
+
+
+
+Stage 3: Identify the moments of truth
+
+
+
+Moments of truth
+
+This concept is most associated with Jan Carlson, a former CEO of SAS (Scandinavian Air Services), in the context of customer care. He took over leadership of the airline at a time of deep recession and identified that the only differentiator he could call on to succeed was his people. He calculated that in a single trip, on average, a traveller would come into contact with a member of SAS staff five times. Each of these contact points was a defining moment – a ‘moment of truth’ – because it is in the moment and at the point of this ‘snapshot’ that a traveller decides whether to use the supplier services again. Carlson did all he could to develop staff management of these moments, with astonishing success.
+
+Source: https://www.alchemyassistant.com/topics/EJpBafLXMYpuTjDH.html
+
+
+
+Sweep through your journey and identify not more than three moments of truth to start with. You want to focus on the decision points where a customer will decide to love you more or leave you. These are the moments that you want to focus on and possibly consider having multiple design sprints with a core team as well as groups of customers to understand and unlock the opportunities in these moments.
+
+Stage 4: Decide on the emotions you want to evoke throughout the journey
+
+The most important piece of advice I want to give you is, be true. If your brand is serious, then don't try to be funny. If your brand is transactional, then don't pour fake emotions into your interactions. One of the most important milestones for you as a brand will be to decide who you are and what your essence is that you want to infuse into all your interactions.
+
+I love using the metaphor of a secret sauce or an elixir that has the essence of whom you are bottled as, so when I remove your branding, and I have an experience with you, I distinctively know it is you. I can, without a doubt, feel that it is your tone, your design, your people’s quirky way of engaging.
+
+It is vitally important that you precisely articulate your essence so that design teams know how to apply that to your journeys.
+
+Zappos is one of those brands, and I am so grateful I got to spend time at their headquarters in Las Vegas in March 2020 to learn from them and experience first hand what the brand is and how they live it.
+
+
+
+
+
+Stage 5: Complete the journey map from top to bottom
+
+
+
+
+
+Step 1
+
+For each moment that you have identified, go down the grid and complete the following details
+
+Embroider a rich set of ideas and create awareness of the gaps in the journey.
+
+Step 2 - Goal
+
+What does the customer want to get done in this moment?
+
+Focus on what the customer wants to get done, not what you want to sell to him.
+
+Step 3 - Expectations
+
+What does the customer expect from you in this moment?
+
+There is very rich data in each organization’s voice of the customer that can help design teams understand what the customer needs and what their expectations are. If you do not have this, engage in a co-design session with customers.
+
+Step 4 - Exceeding Expectations
+
+How are you going to delight the customer?
+
+What will impress the hero of the story?
+
+Differentiate from competitors. Create brand affinity through experiences that leave a positive memory peak.
+
+Step 5 - Challenges
+
+What can happen that would result in us failing the customer’s expectations?
+
+What are challenges that can occur in this moment?
+
+Deliberately avoid these moments of misery and if they do happen, be deliberate about managing them in a way that has the potential to create even higher affinity from a customer that had the moment of misery not occurred.
+
+Step 6 - Moment Owner
+
+Who in the company owns this moment and takes responsibility for managing this moment? Ideally, this needs to be a named person and not a group. You want to establish clear accountability and vest the ownership of the moments and the journey with specific people.
+
+
+
+Step 7 - Backstage Story
+
+We have condensed all the various aspects of what happens backstage into one lane, but you can customize your maps so that you address all the aspects that are important to focus on.
+
+For example:
+
+● People that orchestrate this moment
+
+● Systems
+
+● Processes
+
+● Rules and Compliance requirements
+
+● Key Performance Indicators
+
+● Artefacts - customer-facing documents.​
+
+The backstage story lane sets the scene for becoming the service blueprint that will help you manage the transformation better.
+
+Once you have mapped all the backstage elements, it will support you in understanding how the change needs to be managed. It will help you understand if all of the appropriate stakeholders have been included in the discussions.
+
+The aim is to start simplifying the backstage elements to reduce the risk of failures.
+
+There are many dimensions that you may choose to add to your journey map. A Customer Journey Map is a powerful tool that can deliver incredible results if used with discipline and includes the emotive aspects. Without the emotive aspects, the risk is that you will end up with a process map.
+
+You may want to add interaction channels .
+
+Customers may prefer different channels to interact with businesses. You may choose to do a journey map per channel or define the channel-specific aspects in each moment, indicating which channels are available and why a customer would switch.
+
+The process is iterative .
+
+Once you have the journey populated, you can identify areas of most significant pain or opportunity and conduct more design thinking sprints to help you solve or generate more ideas for those areas.
+
+
+
+
+
+How to deal with all the detail of multiple persona’s
+
+Customer Journeys can be extensive, and if you include many persona’s, these maps can become large and difficult to work with.
+
+My guidance would be to start simple, with one persona. Next, layer your journeys and be practical about what you want to achieve with your journey.
+
+For example, if I am creating a journey where I have the following personas:
+
+A broker, a human resources consultant and a policyholder of a pension fund, it will be challenging to create all the interactions on one journey.
+
+I might create my journeys as follows:
+
+● The policyholder journey - showing their interaction with the HR consultant.
+
+● The broker journey - showing their interaction with the HR consultant.
+
+● Then there might be some intersection where the broker and the HR consultant are on stage with the customer at the same time.
+
+● My interaction between the broker and the investment company is a separate journey with a very different relationship tone than the journey with the end customer.
+
+To continue to get innovation value from your journeys, you need to segment them and create macro and micro journeys.
+
+
+
+
+
+What is a micro-journey?
+
+A micro journey is taking one stage or a moment within that stage and expanding it in much more detail. The detailed micro-journey will unlock the potential that is hidden in some of the behavioural detail and opportunities that we have not yet considered when we were working at a high level.
+
+Do not lose focus on the moments that are important to the customer. Identify your moments of truth before you start mapping micro journeys.
+
+Rely on project management disciplines to help you by scoping the work and timeboxing your design efforts.
+
+Some of our teams have worked for months on various parts of a journey, and what happens once the novelty of a new innovative journey has worn off, fatigue sets in and teams tend to lose their passion for a specific journey if they work on it for too long. Timeboxing helps to avoid this.
+
+
+
+
+
+Journey Design Guidelines
+
+
+
+
+
+E ach moment should deliver the essence
+
+When I take your branding off the recognizable artefacts, do I know that it is distinctly you?
+
+If you have not yet defined your essence in emotional terms, you must do that so that it can become your true north against which you design. As part of the essence, there may be other design principles that you want to ensure you keep to throughout your journey.
+
+Here is an example of one of our client’s design principles that we created in an Experience Essence workshop.
+
+We keep things simple, despite the complexity in our industry
+
+We walk in their shoes
+
+We ask questions to understand what is important to people
+
+We find out what the actual problem is
+
+We solve the problem or explain kindly why not
+
+We act with a sense of urgency
+
+We only make promises that we will keep
+
+We acknowledge that there are stories and emotions that we don’t see
+
+We personalize the experience
+
+We decide, in every moment what difference we are going to make in someone's life
+
+
+
+Smooth out the emotions
+
+Pay attention to Daniel Kannhaman’s peak-end-rule and be deliberate about where you create peaks. Do not leave the peaks to chance. Create even emotions in places where you are not trying to create a trigger for interactions.
+
+Create upstream solutions earlier in the journey
+
+When a disappointment happens in a journey, you need to back up a few moments and look at the interactions that took place before this one. The likelihood is high that these earlier interactions lack design elements that would prevent moments of misery from happening.
+
+Early investment in the relationship
+
+Get a strong start when the customer engages with you the first time. Ensure that you “educate” customers on the most important and relevant aspects of engaging with you during the onboarding phase so that the customers can help themselves later in the journey. Please refrain from providing them with a 100-page membership guide that you arrogantly expect them to read when the information is highly technical and possibly not relevant at that time.
+
+Stretch outside your solution space
+
+Prolong greatness by looking at all the moments as an opportunity for innovation, not only the moments that you have control over. Often innovation is found at the edges of where your control ends.
+
+End on a strong note
+
+People remember the end of an interaction. Ensure that you deliberately design a strong ending to the story. Call centre agents very often end the call with “is there anything else that I can do for you”. Aside from it being superfluous and scripted, the customer would have told you if they needed anything else. It is so cliched and scripted and comes across as false and might reduce the quality of what happened before this dreaded line.
+
+Smooth transitions
+
+When a customer needs to be handed over between people or channels, make sure it has been designed to feel consistent and smooth.
+
+Fill white space white space .
+
+The customer should never feel like they are time travelling with you with skips and jumps between moments. It should feel caring and consistent and without spamming your customer with mailers, ensure that they feel that the relationship is maintained and that there are not long white spaces until you spend money with them again.
+
+Amplify positive peaks
+
+Decide deliberately in your journey what the positive peaks are that you would like customers to remember.
+
+Re-order moments
+
+Sometimes we design our journeys to mimic our processes. This order might not make sense to a customer. Re-order moments in a way that makes sense to the customer.
+
+Re-imagine the journey
+
+There are those times when you just need to throw out the baby with the bathwater and re-imagine how the customer wants to engage with you. If you are very familiar with your backstage processes, this might prove challenging. I advise clients to use a consultant to lead this initial re-imagination session for them. It is easier if you have someone who has no emotional attachment to any pre-existing way of doing things.
+
+
+
+
+
+Online Workshop Tips
+
+
+
+
+
+D uring this time of social distancing, this guide would not be complete without taking you through some practical aspects of doing customer journey design online.
+
+I have led hundreds of workshops since the start of the pandemic, and I would like to share my top tip of learnings with you.
+
+Let participants prepare and do pre-work. It can be as little as 15 minutes that will give you a great head start.
+
+Use video in your email to brief participants. A platform like Loom can give you a quick and effective way to very quickly record video and insert it into your email.
+
+There are many collaboration boards, Miro, Mural, Concept Boards. Find one that YOU are very comfortable with. Also make sure that your participants get access to the board before the session and ensure that they have access to a tutorial video, where they can learn how the platform works.
+
+What has, by far been the fastest way to get people to work together is using paper. If you have regular A4 paper, it can just be a tool where you can get the fastest results. But, you have to think through your exercises and make prototypes before you start.
+
+
+
+We used Lego Serious Play™ as a truth serum and a prototyping tool that delivered outstanding results. Since the pandemic, we have used it remotely by sending clients a lego set and then sending them a workshop guide that they will follow to do some pre-work and that they will use during the session. The workshop guide will then be photographed and sent back to us. However, there are many places in Africa, where we are unable to send the Lego, but we improvise with paper, and it works well.
+
+In the sketchnote below, I will take you, through a step-by-step preparation of the journey crafting exercise that I devised.
+
+
+
+
+
+Step 1
+
+Fold your page in half.
+
+Step 2
+
+Fold it in half again.
+
+Step 3
+
+Fold in half two more times.
+
+You should now have a 3X4 cm piece of paper.
+
+Step 4
+
+Unfold it and fold it back to half and back to half.
+
+You should be back at step 2 again.
+
+Step 5
+
+Take the block where the corner is closed and tear out that block.
+
+Open your template, and you should have an outer frame with blocks that will be where you are going to identify moments in the journey.
+
+You should have an outside rim of frames. The outside blocks will be the moment frames in your journey.
+
+Step 6
+
+Do not discard the piece that you tore out, since this will become a template for your moment details.
+
+The inside piece that you have removed will become a template for unpacking your moments.
+
+Step 7
+
+On the four-block grid, write the following.
+
+● Goal: What is the customer’s goal in this moment?
+
+● Expectations: What is the customer’s expectation of what will happen in this moment?
+
+● Challenges: What are the possible challenges and disappointments that the customer could face in this moment?
+
+● Exceed Expectations: What can we inject in this moment to exceed expectations? Now, remember, you do not want to exceed customer expectations at every moment, you want to be deliberate about designing the emotional arc of the journey so that it leaves a memorable impression on the customer.
+
+You can create more of these templates so that you can unpack the moments in your journey as you progress in the workshop.
+
+
+
+
+
+Map Journeys With Your Customers
+
+
+
+
+
+T o claim to be customer-centric, I suggest you design with your customers.
+
+There are many reasons why business leaders have turned down this suggestion.
+
+“They don’t know how complex our business is”
+
+“If Henry Ford had listened to customers, they would have had a faster horse.”
+
+“What can they tell us that we don’t already know?”
+
+I believe behind all these objections is fear. These sessions are messy, and you need to focus on becoming more human and empathetic in your design efforts. For some people, this will be a challenge. Listening to customers and letting them provide you with input in your journeys, I believe, is the fastest way to embed emotions and take your business to the next level.
+
+So let me share with you how I set up these sessions. I invited customers that have been selected in certain groups, for example:
+
+● New customers who joined the company in the last three months. They will give me very valuable information about onboarding.
+
+● Customers that have been with the brand for longer than five years. They will help me understand the general relationship with the brand.
+
+● Customers who ended the relationship with the brand in the last three months. From them, I will learn about what happens at the end of the relationship, whether the door is closed or left open.
+
+Hopefully, your data can help you make these selections.
+
+For inviting these customers, make sure to position that this will be a co-design session where they will help design better experiences for the next customer, even though they might be leaving. Their experience matters and we want to hear their ideas. We do offer these customers incentives for a 2-hour session based on what is agreed with the leadership.
+
+For in-person sessions, use a neutral venue and make sure that customers are provided with snacks and beverages since they would have come straight from work.
+
+Now that we have more of these sessions online, we offer better incentives to customers since the costs have reduced. Customers have to remain for the entire 2-hour session to receive the incentives.
+
+We compile a thorough discussion guide with the questions we will ask. We record the session for playback and transcription. Leaders can attend the customer sessions, but they are requested to not interrupt the flow of the sessions with their questions. We do provide an opportunity for questions right at the end of the workshop.
+
+Just like in physical workshops, we have some ice-breakers to make clients feel a little more relaxed. Where we used Lego before, we now ask people to draw or pick some metaphors for their experience.
+
+We use technology to show them some aspects of the journey and ask for feedback. Unlike the journey mapping sessions, we do not expect clients to learn a collaboration board, so we keep it simple.
+
+Using online workshops, we are also aware that we are reaching a specific segment of clients that have access to technology and that we are excluding the needs of clients that do not have access to technology and video calls. Voice calls can still be useful, but not for the same co-design sessions as described above.
+
+What we typically see in the sessions is that customers do influence each other and that they build on each other's ideas. Later in this guide, I write about engaging with angry customers. They are a treasure chest full of ideas, and I recommend that you round up the courage to hear from your angry customers.
+
+What follows after the session is more analysis work to summarise what we have learnt in the context of the customer journey. I then present this on a journey map with the video and verbatim comments from customers.
+
+Often this information is so rich that we recommend using parts of this in training customer service agents. Hearing from the customer connects what they do to their purpose of serving people.
+
+
+
+
+
+Scope and Plan
+
+
+
+
+
+A very effective way of designing journeys is to timebox them.
+
+
+
+
+
+I suggest using the t-shirt sizing!
+
+● Small - 3 months
+
+● Medium - 6 months and
+
+● Large - 9 months
+
+You could also have the approach of
+
+Light touch - sweep through the journey and find broker aspects.
+
+Medium touch - design the moments of truth and the associated client artefacts.
+
+Deep design - Redesign the journey from start to finish to be differentiated and authentic to your essence.
+
+Be sure to contract with your sponsors and leaders which approach you will take to avoid unrealistic expectations. The design takes time.
+
+Design sprints work very well when you are engaging people in the business. Plan these design sprints ahead of time and make it predictable in their calendars when you have design blocks allocated to them.
+
+What works well is:
+
+We are having five days of consecutive design sprints for four hours in the morning. During the afternoons, the core team documents and integrates the information for presentation the next day.
+
+Followed by five days of analysis and further design.
+
+Once the analysis and design are completed, conclude with five days of design sprints again with the broader team to deepen the innovation.
+
+
+
+Don’t fall into the trap of just fixing broken things. Fixing broken processes and procedures is not customer journey design!
+
+
+How to plan and run your Journey Design Sessions
+
+The ideal number of people for a workshop is 6-12 people. Now that we have online workshops, you could work with people in groups of 6 persons. It is ideal to have more facilitators so that you can harvest and make sure you capture all the innovation.
+
+If you work with three groups of 6, I would suggest you come up with three different journey maps so that you have a diverse result that you can integrate into one later in the process. You want to stimulate diverse individual thinking, lively debate and harvest rich information.
+
+The more people you have, provided you facilitate the challenge in the right manner, the more ideas you can generate.
+
+Essential advice for successful journey mapping workshops.
+
+Design your agenda with timelines and concrete outcomes for each activity. I use Sessionlabs for designing my workshops, and it helps me deliver great quality workshops because I think through everything I want to achieve. It also helps me refine and make workshops repeatable.
+
+Ensure that people know why they are coming to the workshop. Prime them and give them work to prepare, even if they still arrived unprepared, they know you mean serious business.
+
+Ensure that people have the necessary stationery. Now that people are working from home, they might work from their kitchen, so be sure to brief people on what the ideal environment is and what stationery they will need.
+
+Online workshops are challenging without visual feedback. If you want people to have their cameras on, make it a prerequisite in the meeting invitation. Yes, you are hosting the meeting, and you can make it mandatory.
+
+Give people questions to answer first, individually and then discuss in a breakaway room where they can enrich their thinking through discussion.
+
+Mix up people to create a diverse group as possible for the richest insights. Do not combine people in their functional groups; otherwise, you will get the usual patterns of thinking.
+
+If you use collaboration boards and other technology, make sure your participants are not freaked out by the technology and spend most of their time trying to not look stupid on the boards. Send them a tutorial video and a test board to use before the workshop. They might not spend the time before the workshop, so make sure you give a quick demo of the software you are using. My most valuable advice after running many, many workshops online is, don’t over-engineer it. People have pieces of paper on hand, and most people can take a picture, so let them work on paper and later send it to you. Even holding up a journey, they sketched to the camera so that you can take a picture is effective in capturing what they have done as a last resort.
+
+Early on after the pandemic broke out, I was tasked to facilitate the design of a COVID-19 patient journey. It was the first time I facilitated a workshop in this new format, and I was astounded that with good planning and excellent priming of the attendees, we achieved a better result than what we usually did with this group in in-person workshops. The information was richer and the time in which we designed the journey was shorter. It is possible to achieve outstanding results by planning and visualizing your ideal outcome.
+
+Here is a list of tools that you can use for online workshops:
+
+● Groupmap
+
+● Miro
+
+● Mural
+
+● Concept Boards
+
+● Google Slides
+
+● Google Docs
+
+● Google Jamboard
+
+Essential Workshop Roles.
+
+These roles might be filled by someone in your team or another team. Choose a person that is passionate about this work and who is willing to take on a role.
+
+Journey Facilitator : Leads the workshop and ensures that the business owner’s objectives are achieved.
+
+Journey Scribe: Documents the information from the workshop.
+
+Business owner : the person who owns the journey
+
+Timekeeper : someone that helps with managing time
+
+Workshop Attendees: people who provide diverse opinions and perspectives, who help co-create and innovate.
+
+Below I have listed the primary responsibilities for each of the roles.
+
+Journey Facilitator Responsibilities
+
+● Design and plan the session - create an experience for people attending the workshop.
+
+● Set the rules of engagement.
+
+● The facilitator will lead the participants in the activities during the workshop.
+
+● Solicit the outcome and expectations that people in the group have.
+
+● Guide the conversation to remain on topic.
+
+● Ensure that participants listen to each other.
+
+● Ensure participation from all attendees.
+
+● Ensure that the relevant stakeholders in the room know what is expected of them.
+
+● Keep the pace moving.
+
+● Ask difficult questions.
+
+● Unlock the thinking of the attendees.
+
+● Inject humour and lightness into the sessions.
+
+● Park items that distract the conversation.
+
+● Summarise the outcome of the session.
+
+Journey Scribe Responsibilities
+
+● Capture journey map, ideas, discussions and action points.
+
+● Visualize the journey map using tools such as Smaply or Uxpressia.
+
+● Understanding the internal issues and context.
+
+● Excellent listening and filtering skills.
+
+● Able to apply a level of analysis.
+
+● Segment notes into comprehensive, understandable information.
+
+● Create a presentation that has impact and tells the real story from the customer’s perspective.
+
+Business Owner/Sponsor Responsibilities
+
+● Provide strategy and direction.
+
+● Present problem statement.
+
+● Make decisions.
+
+● Bring the business case.
+
+● Encourage participation and buy-in.
+
+● Apply pressure.
+
+● Create a context.
+
+● Full participation.
+
+● Give mandate.
+
+Workshop Attendees Responsibilities
+
+● Active participation by providing ideas and input.
+
+● Engaging in communication is open and honest.
+
+● Attend with a willingness to collaborate.
+
+● Raise problems, but also solutions.
+
+● Bring their knowledge.
+
+● Prioritize these workshops and commit to the time.
+
+● Be open to new approaches.
+
+● Listen to others.
+
+● Share openly.
+
+● Challenge the status quo.
+
+● Don't be defensive.
+
+● Have fun.
+
+● Consider the customer in the discussions.
+
+By making these expectations clear up front, your initiative will have a much better chance of success and transforming people as you continue on the journey.
+
+
+
+
+
+Redesigning customer-facing documents
+
+
+
+
+
+W hen I wrote this heading, I just started giggling. You would think it was apparent. “Customer-facing”, but unfortunately it is not. Many client documents are written in a legalese language that is difficult to understand and makes one feel a little like a criminal.
+
+I highly recommend building a war room. A war room will help you make the invisible visible in a way that will inspire change.
+
+What is the war room?
+
+It is a space allocated to display the papers and digital artefacts a customer sees as if it is a gallery that displays the story of your brand. Brand artefacts, like letters, email templates and forms usually were developed by different teams or individuals that were focusing on that artefact but not necessarily asking “what happened before this?” Or “what is the customer seeing after this?” The insights that teams have when looking at the brand artefacts in the gallery walk for the first time is, “Wow, this cannot be possible!”
+
+
+
+How to set up a war room?
+
+Now that we are not necessarily working together physically, I suggest choosing a collaboration space like Concept Boards or Mural and collecting all your customer-facing artefacts onto the board.
+
+In workshops, people can quickly be invited to do a gallery walk through the war room and make notes on the collaboration board of what they see.
+
+The artefacts must be in the sequence that the customer would experience it. Adding the artefacts for every channel also creates a fantastic opportunity for everyone in your group to experience the degree to which these artefacts are consistent between email, letters, website and chat, for example.
+
+Benefits of a war room
+
+It is a very tangible way to display the actual journey.
+
+It serves as an immersion platform where executives, leaders and front line teams can experience the brand as customers do.
+
+The challenges you will have with your war room
+
+It may become out of date.
+
+No one might care about your war room unless you ritualize it.
+
+If no one owns the war room, then it will just become wallpaper.
+
+It may reveal that some team members have not been doing their jobs.
+
+Once you have a war room, you have an evident experience of what the customer is seeing.
+
+Creating more customer-centric communication
+
+When we were taught business communication, it was very formal and very uptight. When looking at client communication from a financial services organization, you have this whiff of risk mitigation in each communication. Regulations are difficult to communicate in a kind and straightforward manner, but it can be done!
+
+So here are a simple recipe to follow when redesigning your client artefacts:
+
+Whom is it written to? Use the persona that you created earlier to help make this communication more human.
+
+What is your goal with this communication?
+
+What does your audience want to know in this communication?
+
+What do they need to know?
+
+What do you want them to do after they have read the communication?
+
+What is your storyline? Create an elegant storyline that makes sense to the customer.
+
+Here is an example.
+
+Before:
+
+
+✽✽✽
+
+Claim Rejection
+
+Dear Sir,
+
+We are in receipt of your recent claim form. Your claim was rejected as the item is not covered under the specified item section of your policy. Make sure to cover items of high value as specified items on your insurance policy.
+
+Regards,
+
+Policy Claims Assessor Team
+
+After we applied a bit of warmth and the essence of "caring and solving problems".
+
+
+✽✽✽
+
+We could not pay your claim .
+
+Dear Joe,
+
+You have been a customer for the last five years, and we noticed that you had only claimed twice during this time.
+
+We are sorry to have heard about the break-in you suffered last month. Unfortunately, this communication is going to add injury to pain!
+
+We are unable to pay-out your claim as the stolen camera was not a specified item on your policy.
+
+We do not want you to be disappointed in future when you suffer losses like this, and it is easy to list items as specified items on your policy. It does have a cost implication, but we want to support you in making the right choice on the high-value items that matter to you.
+
+May I suggest that we ask a broker to make contact with you and help you adjust your policy to cover your most prized possessions?
+
+Regards,
+
+Martha Lin
+
+Customer Care
+
+
+
+
+
+✽✽✽
+
+
+
+
+
+My question is which company would you go with since the outcomes are the same from a transactional and functional perspective. I would go with the kind and empathetic one, and I would use their offer to avoid disappointment in future by booking a meeting with the broker.
+
+Identify the high volume, high emotive client artefacts and start working on those first. You will see the quickest and most impactful results by improving these communications.
+
+Benefits you can expect:
+
+Reduce repeat calls to the call centre.
+
+Reduce complaints in this area.
+
+Avoid CEO escalations.
+
+Before you redesign these communications, look at the metric associated with them.
+
+Collect that information and quantify these issues so that you can use it in your future results reporting.
+
+
+
+
+
+How to inspire change through presenting your journey maps
+
+
+
+
+
+F irst, the map is on the wall. As the teams work on it, it comes alive, but also a mess of post-it notes, pictures, letters and clippings. A paper explosion of legacy and future innovation!
+
+A war room is handy during this part of the journey. It helps us represent what the customer sees. Immersing people is essential so that they can “feel” the real experience and become aware of inconsistencies, and disconnected aspects of the storyline.
+
+Walking a group of executives on a gallery walk through the journey and showing them what customers experience, can be very powerful and support your process of getting their buy-in. When they experience the physical and tangible impact of what the company provides, it ignites immediate mind shift.
+
+We transform the map from the wall into a more elegant and sophisticated digital map. Details are neatly captured. Some of the awareness while capturing the map is that “we missed something”. The gaps are spotted as a result of objectively running through the storyline. Usually, I have a multi-person team working on the maps. One to capture and one to quality assure and one that plays the role of the customer. The trap that improvement teams can fall into is to get stuck in their process and system and not map the journey from the perspective of the customer.
+
+The final journey map usually becomes quite vast in terms of timeline and the number of moments in the map. The map remains a challenge for people to take in. The maps also do not print easily on the printer paper sizes that are commonly available.
+
+The map, therefore, needs to be presented using different views.
+
+Why share the map?
+
+The map is shared for a variety of reasons such as:
+
+● Presents the current state.
+
+● Presents opportunities.
+
+● Changes the mindset of leaders and staff to take ownership of creating memorable experiences.
+
+● Motivates people into action to fix deficiencies in the existing experience.
+
+● Motivates for investment in the people activation.
+
+● Creates awareness of the employee experience that is key to creating memorable experiences for customers.
+
+Sharing the map in a way that ignites change
+
+Here are a few tips on how we share the story so that it helps the change process.
+
+Step 1: To whom are you presenting your journey map?
+
+Put yourself in the shoes of your audience.
+
+Design your presentation around achieving the goals of these questions.
+
+Step 2: Pictures are better than a thousand words
+
+We always create a visual-only illustrated version of the map.
+
+
+
+Diagram: Buying a car Journey Map
+
+
+
+Diagram: Buying a car Journey Map for Kia
+
+
+
+The images allow people to immerse themselves into the story, and I run through the story first so that they can associate the imagery with the story.
+
+Step 3: Make the detail enjoyable .
+
+I present details of the newly designed experience using the journey with images. I use Prezi extensively to give us the ability to pull in the map and then animate the discussion to move in and out of details on the map. The images and multimedia create a much more interactive experience than trying to navigate on the detailed map.
+
+I also overlay the map with multimedia like video and phone calls and letters and forms. You want your audience to feel the experience and see the pain as well as see the opportunity of the proposed future experience.
+
+We do extensive co-design with customers, and we video those sessions. We use the video material as part of the presentation since this is them telling the executives what they want from the brand.
+
+Step 4: Activating the experience
+
+When we work with large teams in a call centre of 1200 people, it is not possible for all of them to co-design the experience. However, they need to get excited and feel inspired to deliver the new, improved experience. We successfully use the power of visuals, role play, and improv to create activation sessions where they can act out the journey as if it is a stage play.
+
+The most important aspect of presenting the journey to a group of people is that you put them in a position to share the story with someone else.
+
+You can use tools such as Smaply, Uxpressia and Prezi to create your presentation. As a storyteller, you need to share the experience in such a way that you inspire people to share the story with someone else.
+
+As part of a journey deliverable, my team typically produced a journey playbook that was a hardcover coffee table book with all the details of the project as well as the newly designed journey moment by moment. We found that even years after the project, an executive would still take out the book and refer to parts of the journey. What is essential about this story is that the story became his to tell, and he told it in many meetings inside his organization.
+
+
+
+
+
+Implementing Your Customer Journeys
+
+
+
+
+
+B y this time, you would have a very detailed customer journey map that has been crafted over weeks of work with customers, your core team and your business stakeholders.
+
+The risk is, that without a disciplined action plan, which is actively managed the treasure will remain locked up in the maps.
+
+For every journey I have ever mapped, I have concluded the work with an action plan workshop where the work was assigned to someone.
+
+Since I knew I was planning all along to turn the map into action, I created an ACTIONS lane in my map. It is now merely a matter of going through the map and putting all the actions into that lane. I make sure that I phrase the actions statements very clearly so that anyone can read it and has clarity on what needs to be done. The map becomes the living reference point for everyone who has tasks assigned to them so that they have a specification of what needs to be done. The map can be enriched with other documents that you can add as links.
+
+The work that emerges from journey design always falls into one of these categories.
+
+● People
+
+● Process
+
+● Systems
+
+
+
+It is essential to divide the work up into work streams and report separately on the workstreams. Here are some of the workstreams that I have had in the past.
+
+The fix-it stream - is used to group tasks where the journey is broken and need to be fixed.
+
+The credibility stream - is deliberately choosing a part of the journey to improve where you know it will deliver good results fast. Often design teams need to gain credibility from the wider stakeholder group to see higher levels of cooperation. Early on in your endeavours, you want to deliver a result so great that everyone wants to be a part of your initiative.
+
+The customer delight stream - In this stream, you want to focus on specific customer interactions. Choose a high volume interaction that elicits high emotion if you want to shift metrics fast. I am not saying it is about metrics, but if you have a CFO blowing down your neck about ROI, this is how you get them off your back). If you want to shift metrics fast, improve this customer interaction at scale and measure it through the voice of the customer, customer satisfaction and effort scores. Make sure you have a baseline in place before your improvement.
+
+The customer council . Establishment of a construct with representatives from every key area is essential in gaining momentum, spreading stories and building skills in the organization. Without support, this can be a lonely and a hard road. I recommend that you fill the bus with passionate people, who want to be on the journey, which has a purpose and a drive to make experiences better for themselves and customers. Your aim with the customer council should be to infuse these gatherings with stories that will be so contagious that the council will spread the stories for you.
+
+In my early days of being a customer experience program director, I had a quarterly customer experience forum, which I managed to like a half-day conference. We would get a speaker, have a slot for a business owner to present a problem to be solved. We ran some design thinking workshops. We played games, and we grew this community from 20 to 50 to 70 to 120 people attending throughout various levels and various areas in the business. It became the quarterly session that people wanted to get a ticket to, because it was fun, engaging, productive, ego-less and people got to contribute in a short time and felt great about themselves. I watch these videos with nostalgia, but also with pride in that, we had a conviction, and we delivered excellent results.
+
+
+
+
+
+The image below illustrates the categories of change. By thinking about this and positioning your change in this way with your stakeholders, you may have more support and ensure that the executive team knows what they are in for.
+
+
+
+I have categorized the journey change as follows:
+
+Renovation or make-over that includes quick cosmetic fixes that will give you short term gains.
+
+We are re-engineering the journey through various structural changes.
+
+Redesign and rebuild have often been done when we work with a client in a consulting capacity leading them on designing a new product or service. This approach is an invasive understanding if you have legacy processes and systems. For this approach, you need to have strong executive support, lots of resources and the courage to piss many people off! I believe that this is what is needed in organizations today, a complete re-imagine of what their journeys with customers should be, but this is the road less travelled since it requires grit, science, resources, magic and a royal mandate!
+
+
+
+Once you have your workstreams, prioritization becomes essential.
+
+Not all tasks can be done at the same time, so through careful prioritization, you should choose to do what will give you the most significant benefit.
+
+Look at the prioritization matrix below and think about the last few projects you did. Would this have helped you decide on the order of actions?
+
+
+
+It is vital to end up with a complete project plan with time, responsibility and priorities defined for each task. Customer Journey design initiatives often fail, not because the innovation or design was insufficient, but because the discipline to implement was lacking.
+
+Also define measurements, some concrete, but some might just state what it will look like when that specific task is complete or that issue has been dealt with.
+
+Implement regular check-ins on the progress of actions and celebrate the accomplishments of the team.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+I t was fun writing this for you.
+
+
+
+
+
+I want to thank myself for having the courage for all these years to stand up for what is right for the customer. First, as a program director, I found the corporate territories to get the methods and approached in this book adopted. I cried a lot because I cared. I got angry a lot because I cared. And I left a few jobs because my caring was not seen, and I did not achieve my dreams for customer experience in some of the environments I found myself in.
+
+I wanted to give you an easy guide, but not an easy job. Doing this work is difficult because of a few reasons:
+
+● You will transverse silo’s in your organization as you do this work and someone is bound to look bad even if you are the nicest, kindest peacemaker.
+
+● This work requires discipline. Even if you are going through a journey for the 50th time in a workshop, you have to help the audience see it afresh. Journey fatigue is real, and sometimes you just need to take a break for a week and put the journey away and focus on something else.
+
+● The “soft” skills that you need to deliver results are the "hard" ones to practice. It is about confidence and negotiation and connecting the dots.
+
+As a consultant and advisor to many business leaders, I have the license to tell them the truth, the whole truth. I have the responsibility and an oath that I have taken for myself that I will tell them that there is spinach in their teeth or their fly is open.
+
+I wrote this guide so that I can empower you with practical advice on how to get the best results for your customer journey improvement initiatives.
+
+
+
+
+
+About The Author
+
+Chantel Botha
+
+
+
+Innovation Magician and Brand Warrior, Chantel leads BrandLove into battle against life without meaning or significance. Delivering passion and driving purpose are her “Why” and she specializes in designing value and connection into every experience, whether it is a customer, employee, corporation or individual. With a hat full of magic, and diverse background in business economics, computer sciences, customer experience design, coaching, public speaking, e-commerce, and strategy, she combines her varied interests to deliver revolutionary originality and EQ to brands and businesses. With a passion for people, she also spearheads several social projects, including a robotics youth programme. She is also an ambassador for fun and is certified as both a Laughter Yoga and Lego Serious Play facilitator.
+
+
+
+Contact me: chantel@brandlove.co.za
+
+
+
+
+
